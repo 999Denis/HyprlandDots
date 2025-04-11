@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-    <h2>• overview •</h2>
+    <h2>• Overview •</h2>
     <h3></h3>
 </div>
 
@@ -64,7 +64,7 @@
 </details>
 
 <div align="center">
-    <h2>• screenshots •</h2>
+    <h2>• Screenshots •</h2>
     <h3></h3>
 </div>
 
